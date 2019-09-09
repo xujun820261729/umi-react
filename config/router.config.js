@@ -1,3 +1,11 @@
+/***
+ * 路由地址配置
+ * @description
+ * 1,路由权限控制暂时分为admin 和 user 两种类型;
+ * 2,路由可参考umijs的路由参考
+ * 3,authority数组指定用户的权限
+ * @author xj
+ */
 export default [
   {
     path: '/user',
